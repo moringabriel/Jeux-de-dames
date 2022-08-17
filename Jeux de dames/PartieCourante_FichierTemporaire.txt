@@ -1,0 +1,11 @@
+--------------------------------------------------------
+1: Deplacement: blanc         Nom du joueur: Joueur 1  
+
+   Position source: (5, 6)    Position cible: (5, 6)   
+--------------------------------------------------------
+2: Deplacement: blanc         Nom du joueur: Joueur 1  
+
+   Position source: (4, 7)    Position cible: (2, 7)   
+
+   Déplacement avec prise.
+--------------------------------------------------------
